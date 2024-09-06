@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @The-owll
-- 👀 I’m interested in computer science abd have not figured out what language to learn
+- 👀 I’m interested in computer science and have not figured out what language to learn
 - 🌱 I’m currently learning havard cs50
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
